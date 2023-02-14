@@ -14,6 +14,7 @@
                 j--; 
             }
             string reversed = new string(charArray);
+            Console.WriteLine("This a cmd");
             Console.WriteLine("Reversed string is :" + reversed);
         }
     }
